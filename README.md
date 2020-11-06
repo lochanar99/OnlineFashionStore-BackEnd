@@ -1,3 +1,6 @@
+FrontEnd repository : https://github.com/lochanar99/OnlineFashionStore-FrontEnd
+
+
 # OnlineFashionStore-BackEnd
 
 This is the backend of the online fashion store which has the front-end component in a seperate repository. 
